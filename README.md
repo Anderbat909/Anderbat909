@@ -1,2 +1,4 @@
-## Hello there
-My username is Anderbat909. I'm new to coding and enjoy learning JavaScript and HTML. Currently I am working on a discord bot.
+## Hi
+My username for almost everything is Anderbat909. I chose it some time ago and have continued to use it for almost every service I use. 
+
+Currently I'm learning to code using JavaScript by creating a capable discord bot which I can host locally.
